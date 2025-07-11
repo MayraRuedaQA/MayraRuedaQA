@@ -1,4 +1,4 @@
-## HOLA SOY MAYRA RUEDA 👋
+## HOLA SOY MAYRA  👋
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/18f02c8d-60e7-4815-a9a5-eaab25f7b1cb" />
 
 🎯 Actualmente me estoy formando como **QA Engineer** en TripleTen. Me apasiona la calidad del software, la experiencia del usuario y los procesos de mejora continua.
