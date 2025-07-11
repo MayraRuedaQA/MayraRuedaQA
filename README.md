@@ -14,6 +14,23 @@
 
 📌 Habilidades blandas: atención al detalle, trabajo en equipo, adaptabilidad, compromiso y comunicación.
 
+
+## 🧰 Tecnologías y Herramientas que utilizo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" height="40" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/jira.png" width="40" height="40" alt="Jira" />
+  <img src="https://img.icons8.com/color/48/000000/google-drive--v1.png" width="40" height="40" alt="Google Drive" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="40" height="40" alt="MS Office" />
+  <img src="https://img.icons8.com/fluency/48/000000/json.png" width="40" height="40" alt="JSON" />
+</p>
+
 ---
 
 📫 **Contáctame:**
